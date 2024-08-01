@@ -1,0 +1,20 @@
+https://www.google.com/imgres?q=Admin%20dashboard%20template&imgurl=https%3A%2F%2Fs.tmimgcdn.com%2Fscr%2F800x500%2F430900%2Fdarken--bootstrap-5-admin-dashboard-template_430969-original.png&imgrefurl=https%3A%2F%2Fwww.templatemonster.com%2Fadmin-templates%2Fdarken-bootstrap-5-admin-dashboard-template-430969.html&docid=2I2vYKSnyeAbqM&tbnid=Fg1oz_UGeTzz-M&vet=12ahUKEwi_4qa5xtOHAxUVVmwGHSs_MvEQM3oECDMQAA..i&w=800&h=500&hcb=2&ved=2ahUKEwi_4qa5xtOHAxUVVmwGHSs_MvEQM3oECDMQAA
+
+
+https://www.templatemonster.com/admin-templates/dashrok-bootstrap-5-admin-dashboard-template-296055.html
+
+
+git init
+git add .
+git commit -m "add login page"
+git status
+connect repo
+copy and paste
+
+
+to run json: jsono-server --watch filname.json -p4000
+end point is API
+
+
+get- nikalna
+post-
